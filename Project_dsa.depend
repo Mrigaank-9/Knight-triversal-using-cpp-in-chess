@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699093509 source:d:\c++  dsa college\project_dsa\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
